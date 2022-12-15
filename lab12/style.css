@@ -1,0 +1,45 @@
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.header__title {
+	background-color: lightblue;
+	padding: 50px;
+
+}
+
+.header__subtitle {
+	background-color: #fcba03;
+	padding: 50px;
+}
+
+.container__flex {
+	display: flex;
+}
+
+.main__info {
+	background-color: #2843a6;
+	padding: 50px;
+	width: 400px;
+}
+
+.main__subtitle {
+	background-color: #246661;
+	padding: 50px;
+	width: 400px;
+}
+
+.main__right {
+	background-color: #bd0927;
+	padding: 50px;
+	width: 200px;
+	height: 136px;
+}
+
+.footer__info {
+	background-color: #333555;
+	padding: 50px;
+	max-width: 1100px;
+	margin: 0 auto;
+}
